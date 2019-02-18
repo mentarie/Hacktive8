@@ -1,0 +1,39 @@
+/*SELECTOR*/
+button{
+	background-color: #895E69;
+	border-radius: 25px;
+	width: 50px;
+	height: 50px;
+}
+input{
+	border-radius: 5px;
+}
+
+/*CLASS*/
+.merah{
+	color: red;
+}
+.kuning{
+	color: yellow;
+}
+.container-box{
+	background-color: #895e69;
+	width: auto;
+	height: auto;
+	padding: 15px;
+	column-count: 3;
+}
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: #7bbec6;
+	padding: 15px;
+	border-radius: 25px;
+	text-align: center;
+}
+
+/*ID*/
+#hijau{
+	color: green;
+	text-underline-position: all;
+}
