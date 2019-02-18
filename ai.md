@@ -1,0 +1,2 @@
+#head
+AI NULIS INI
